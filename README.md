@@ -1,2 +1,2 @@
 # Memory
-Shared files for memory systems
+Shared files for memory systems for private distributio.
